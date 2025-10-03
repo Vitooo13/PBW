@@ -12,46 +12,28 @@
    <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7b20bdf4-4e11-4931-9bc7-00ef330ba7aa" />
    <img width="1600" height="833" alt="image" src="https://github.com/user-attachments/assets/df138478-6403-48f7-97e2-6255174cde22" />
 
+2. **instalasi project laravel dan membuat folder LaraPress **  
+   <img width="1600" height="835" alt="image" src="https://github.com/user-attachments/assets/0899d99e-a79e-4d64-af34-5b462db297ab" />
+   <img width="1916" height="1004" alt="image" src="https://github.com/user-attachments/assets/7ae516b6-d2d1-4e70-b97a-cea863cd5ba8" />
 
-2. **Navigasi ke Folder `www` Laragon**  
-   <img src="https://via.placeholder.com/700x400?text=Folder+Laragon+WWW" alt="Folder www" width="700">
+3. **Jalankan servernya **  
+   <img width="635" height="176" alt="image" src="https://github.com/user-attachments/assets/20c07496-f964-4620-af19-973dff872942" />
 
-3. **Jalankan instalasi Laravel menggunakan Composer**  
-   <img src="https://via.placeholder.com/700x400?text=Install+Laravel+via+Composer" alt="Install Laravel" width="700">
+4. **Membuat route dan memodifikasi view, lalu mennambahkan halaman statis dengan route dan tampilan baru**  
+   <img width="1920" height="653" alt="image" src="https://github.com/user-attachments/assets/475d3b17-c382-4ef3-be31-19279ecaefc8" />
+   <img width="1915" height="1032" alt="image" src="https://github.com/user-attachments/assets/fcd52d2d-aa76-44c6-8f7a-07d3426c112c" />
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e75a5ba-d40c-43e7-9c4a-8cca70c1e171" />
+   <img width="1278" height="1029" alt="image" src="https://github.com/user-attachments/assets/5124eaaf-e77b-4503-8eca-fb289f39d5d8" />
 
-4. **Masuk ke folder proyek LaraPress**  
-   <img src="https://via.placeholder.com/700x400?text=CD+LaraPress" alt="Masuk LaraPress" width="700">
+5. **Menambahkan link navigasi halaman baru**  
+   <img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/4bc89c57-247f-4c92-9d2e-368a910733c8" />
 
-5. **Jalankan server menggunakan Artisan**  
-   <img src="https://via.placeholder.com/700x400?text=Artisan+Serve" alt="Artisan Serve" width="700">
+6. **Membuat halaman static kontak yang berisi informasi dan link navigasi dari URL**  
+   <img width="1920" height="1007" alt="image" src="https://github.com/user-attachments/assets/ade752f7-1253-472b-ae88-5c654fe3c0bd" />
+   <img width="1920" height="1005" alt="image" src="https://github.com/user-attachments/assets/ccafaefb-fe44-4530-a1ab-39270ab09f7d" />
+   <img width="1920" height="667" alt="image" src="https://github.com/user-attachments/assets/16389dca-2402-4b23-a93a-a37046eeba06" />
 
-6. **Akses aplikasi Laravel di browser**  
-   <img src="https://via.placeholder.com/700x400?text=Laravel+Welcome+Page" alt="Laravel Welcome Page" width="700">
-
-7. **Modifikasi file `routes/web.php` untuk halaman welcome**  
-   <img src="https://via.placeholder.com/700x400?text=Web.php+Route" alt="Route Web.php" width="700">
-
-8. **Edit file `resources/views/welcome.blade.php`**  
-   <img src="https://via.placeholder.com/700x400?text=Edit+Welcome+Blade" alt="Edit Welcome Blade" width="700">
-
-9. **Tambahkan route baru untuk halaman "Tentang Kami"**  
-   <img src="https://via.placeholder.com/700x400?text=Route+About" alt="Route About" width="700">
-
-10. **Buat file view baru `about.blade.php`**  
-   <img src="https://via.placeholder.com/700x400?text=About+Blade" alt="About Blade" width="700">
-
-11. **Tambahkan link navigasi di halaman Welcome**  
-   <img src="https://via.placeholder.com/700x400?text=Tambah+Link+Welcome" alt="Tambah Link Welcome" width="700">
-
-12. **Uji coba navigasi antar halaman di browser**  
-   <img src="https://via.placeholder.com/700x400?text=Browser+Tentang+Kami" alt="Browser Tentang Kami" width="700">
-
-13. **Tugas Mandiri: Buat halaman baru Kontak (`/kontak`)**  
-   <img src="https://via.placeholder.com/700x400?text=Halaman+Kontak" alt="Halaman Kontak" width="700">
-
----
-
-## ✅ Kesimpulan
+## Kesimpulan
 - Laravel berhasil diinstall menggunakan Composer.  
 - Aplikasi dapat dijalankan dengan Artisan.  
 - Route dan View sudah dipahami.  
